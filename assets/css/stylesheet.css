@@ -49,6 +49,7 @@ section.services {
 
 .services h2 {
     font-size: 32px;
+    text-transform: uppercase;
     color: #fff;
     padding: 0.625rem 0;
     font-family: "Roboto Slab", serif;
